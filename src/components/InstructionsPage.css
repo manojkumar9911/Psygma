@@ -1,0 +1,43 @@
+/* Light Theme & Spacing */
+body {
+    background-color: #f8f9fa;
+}
+
+.instruction-card {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card-header {
+    cursor: pointer;
+    font-size: 18px;
+    padding: 15px;
+    transition: background 0.3s ease-in-out;
+}
+
+.card-header:hover {
+    background: #0056b3 !important;
+}
+
+.card-body {
+    padding: 20px;
+    border-radius: 0 0 10px 10px;
+}
+
+.list-group-item {
+    background: none;
+    border-left: 4px solid #007bff;
+    padding: 10px;
+    font-weight: 500;
+}
+
+/* Play Button */
+.btn-primary {
+    background: linear-gradient(45deg, #007bff, #0056b3);
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-primary:hover {
+    background: linear-gradient(45deg, #0056b3, #003f7f);
+}
