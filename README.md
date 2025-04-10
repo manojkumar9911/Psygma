@@ -1,4 +1,4 @@
-# 🎮 MERN Stack Game App – Full-Stack Interactive Gaming Platform
+# 🎮 Interactive Gaming Platform
 
 Welcome to the **MERN Stack Game App**, a **full-stack web application** that provides a collection of interactive games while tracking user scores in real-time. This project demonstrates **frontend and backend integration**, user authentication, and **database management** using the latest web technologies.
 
@@ -155,4 +155,4 @@ This application is built using the **MERN (MongoDB, Express.js, React, Node.js)
 
 ---
 
-Feel free to contribute and enhance this project!
+Feel free to contribute to and enhance this project!
